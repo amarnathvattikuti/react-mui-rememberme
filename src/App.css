@@ -1,0 +1,190 @@
+body {
+  margin: 0px;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #21293a;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #353d50;
+  border-radius: 4px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #54607e;
+}
+.logo{
+  margin: 20px !important;
+}
+.btn-acme-leftbar{
+  display: block !important;
+  width: 250px !important;
+  background: #1d2435 !important;
+  margin: auto !important;
+  padding: 20px 15px !important;
+  border-radius: 10px !important;
+}
+.acme-text-large{
+  width:100% !important;
+  font-weight:600 !important;
+  color: white !important;
+}
+.acme-text-small{
+  font-size: 12px;
+  color: white !important;
+  opacity: 0.4 !important;
+}
+.hr{
+  border: 1px solid #1d2435 !important;
+  margin: 30px 0px !important;
+  background-color: #1d2435 !important;
+  border-bottom: 0px !important;
+}
+.text-xs{
+  font-weight: 600 !important;
+  padding-top: 30px !important;
+  padding-left: 15px !important;
+  font-size: 12px !important;
+  color: white !important;
+  opacity: 0.4 !important;
+}
+.chip{
+  background-color: #10b981 !important;
+  color: white !important;
+}
+.accord-text-space{
+margin-right: 30px !important;
+}
+
+.subTitle {
+  position: absolute;
+  left: 70px;
+  top: 32px;
+  font-size: 14px;
+  color: #ccc;
+}
+.css-1uwgr7b-MuiTypography-root{ padding-left: 10px;}
+.css-4t3x6l-MuiPaper-root-MuiDrawer-paper,
+.css-1imw6t8-MuiDrawer-docked .MuiDrawer-paper {
+  background-color: #111827 !important;
+  color: rgb(209, 213, 219) !important;
+}
+
+.css-h4y409-MuiList-root {
+  padding: 10px !important;
+}
+
+.css-1nxmd3h-MuiListItem-root:hover {
+  background-color: rgb(36 42 56);
+  cursor: pointer;
+  width: 95%;
+  border-radius: 10px;
+}
+
+.css-10hburv-MuiTypography-root,
+.css-ahj2mt-MuiTypography-root {
+  font-weight: 600 !important;
+}
+
+.css-yw020d-MuiAccordionSummary-expandIconWrapper {
+  color: #ccc !important;
+}
+
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root:first-of-type,
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root:last-of-type,
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root {
+  background: transparent !important;
+  color: #ccc !important;
+  box-shadow: none !important
+}
+
+.css-1whpjm6-MuiToolbar-root {
+  position: absolute !important;
+  width: 92.5% !important;
+  z-index: 1010 !important;
+  right: 25px !important;
+  background: #eaecee !important;
+  margin-top: -7px;
+}
+
+.css-pjjt8i-MuiToolbar-root {
+  display: none !important;
+}
+
+.css-15wwp11-MuiTableHead-root {
+  background-color: #f3f4f6;
+}
+
+.apexcharts-legend-series,
+.apexcharts-datalabels {
+  display: none;
+}
+
+.css-1l48ik7 .MuiDrawer-paper,
+.css-10pjl5o .MuiDrawer-paper,
+.css-wf16b5 {
+  background: #111827 !important;
+  color: #fff !important;
+}
+
+.css-67l5gl,
+.css-67l5gl.Mui-expanded,
+.css-919eu4 {
+  background: transparent !important;
+  color: #ebeced !important;
+}
+
+.css-1fx8m19,
+.css-1f8bwsm {
+  display: flex;
+  color: #d9d3d38a !important;
+}
+
+.css-1tpp0wj {
+  display: flex;
+}
+
+.css-1tpp0wj:hover {
+  background: #262c3b;
+}
+
+.Mui-selected {
+  color: #10b981;
+}
+
+.css-cveggr-MuiListItemIcon-root {
+  display: flex;
+  color: #ebeced !important;
+}
+
+.css-i9fmh8-MuiBackdrop-root-MuiModal-backdrop {
+  opacity: 0 !important;
+}
+
+.css-1tpp0wj {
+  border-radius: 10px;
+  margin: auto;
+  width: 97%;
+}
+.css-5r5bf8, .css-1y0cy5b-MuiPaper-root, .css-1nku1ki{
+  width: 100%;
+}
+.css-5r5bf8{
+  padding: 15px !important;
+}
+.css-1y0cy5b-MuiPaper-root{
+  padding: 0px;
+}
+.css-1d3bbye{
+  display: -webkit-box !important;
+}
+
